@@ -1,3 +1,6 @@
+test commit
+
+
 Hello# A basic AngularJS boilerplate [![Build Status](https://travis-ci.org/gruberb/angular-boilerplate.svg?branch=master)](https://travis-ci.org/gruberb/angular-boilerplate) [![npm installs](https://img.shields.io/npm/dm/angular-karma-boilerplate.svg?style=flat)](https://github.com/gruberb/angular-boilerplate) [![Code Climate](https://codeclimate.com/github/gruberb/angular-boilerplate/badges/gpa.svg)](https://codeclimate.com/github/gruberb/angular-boilerplate)
 
 A basic template with (now updated to Angular 1.5.0)
