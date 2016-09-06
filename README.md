@@ -40,4 +40,5 @@ To see the coverage report navigate to `coverage` folder created by grunt serve,
 
 `grunt compile` for creating a `bin` folder with one minified JavaScript file for production
 
-For compiling the langauge files you need to add them to list in Gruntfile config under jsonmin->locale->files
+
+for commitFor compiling the langauge files you need to add them to list in Gruntfile config under jsonmin->locale->files
